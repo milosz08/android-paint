@@ -1,7 +1,7 @@
 # Android Paint
 
 Simple Android application simulating paint application. Can draw line with various width, erase
-with resizable rubber and save drawed image to image file.
+with resizable rubber and save drawed image to PNG file.
 
 <img src=".github/android-paint.gif"/>
 
